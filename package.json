@@ -1,0 +1,17 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "^0.6.2",
+    "express": "3.4.4",
+    "nconf": "^0.6.9",
+    "request": "^2.34.0",
+    "underscore": "^1.6.0",
+    "wechat": "^0.6.7",
+    "wporg": "^0.1.0"
+  }
+}
